@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KalpChaudhary
 - 👀 I’m interested in Fullstack / Mobile application development
 - 🌱 I’m currently learning Mobile Application development at Conestoga college, Canada
-- 💞️ I’m looking to collaborate on projects related to my intrested fields.
+- 💞️ I’m looking to collaborate on projects related to my interested fields.
 - 📫 How to reach me "kalp37697@gmail.com" here is my personal email .
 
 <!---
